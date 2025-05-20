@@ -23,6 +23,7 @@
         border: none;
         background-color: transparent;
         color: gray;
+        z-index: 9;
     }
 
     .table-seats button:focus {
@@ -93,6 +94,7 @@
         border: none;
         background-color: transparent;
         color: gray;
+        z-index: 9;
     }
 
     .table-seats button:focus {
@@ -162,6 +164,7 @@
         border: none;
         background-color: transparent;
         color: gray;
+        z-index: 9;
     }
 
     .table-seats button:focus {
@@ -230,6 +233,7 @@
         border: none;
         background-color: transparent;
         color: gray;
+        z-index: 9;
     }
 
     .table-seats button:focus {
